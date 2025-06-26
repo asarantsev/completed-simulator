@@ -1,2 +1,2 @@
 # completed-simulator
-Full simulator of S&amp;P 500, International (with emerging) Stocks, and Corporate Bonds, with BAA rate, long-short spread, the bubble measure, volatility, using kernel density estimation and filling missing innovations
+Full simulator of S&amp;P 500, International (with emerging) Stocks, and Corporate Bonds, with BAA rate, long-short spread, the bubble measure, volatility, using kernel density estimation and filling missing innovations. Also, previous changes to the simulator are preserved (such as 3 paths instead of 5). For explanations, see https://my-finance.org/2025/06/25/simulator-final-update/
